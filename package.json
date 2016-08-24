@@ -1,7 +1,7 @@
 {
   "name": "grunt-sobject-doc",
   "description": "A grunt wrapper for sobject-doc-node.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/derrek/grunt-sobject-doc",
   "author": {
     "name": "Derrek Harrison",
@@ -38,6 +38,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "sobject-doc-node": "^0.1.1"
+    "sobject-doc-node": "^0.1.2"
   }
 }
