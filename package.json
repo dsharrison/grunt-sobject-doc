@@ -1,7 +1,7 @@
 {
   "name": "grunt-sobject-doc",
   "description": "A grunt wrapper for sobject-doc-node.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "https://github.com/derrek/grunt-sobject-doc",
   "author": {
     "name": "Derrek Harrison",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/derrek/grunt-apex-doc.git"
+    "url": "git://github.com/derrek/grunt-sobject-doc.git"
   },
   "bugs": {
     "url": "https://github.com/derrek/grunt-sobject-doc/issues"
@@ -28,6 +28,7 @@
   },
   "devDependencies": {
     "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "^1.1.0",
     "grunt-jsbeautifier": "^0.2.13",
     "load-grunt-tasks": "^3.5.2"
   },
@@ -38,6 +39,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "sobject-doc-node": "^0.1.2"
+    "sobject-doc-node": "^0.1.3"
   }
 }
